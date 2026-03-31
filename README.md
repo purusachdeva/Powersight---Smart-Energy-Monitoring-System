@@ -6,6 +6,13 @@ Powersight is an end-to-end IoT and Computer Vision-based system designed to aut
 
 ---
 
+## 🖼️ Project Poster
+
+
+![Powersight Poster](powersight_poster.png)
+
+---
+
 ## 🚀 Features
 
 * 📸 Automated image capture using Raspberry Pi
