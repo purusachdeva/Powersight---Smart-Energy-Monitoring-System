@@ -72,3 +72,7 @@ Powersight is an end-to-end IoT and Computer Vision-based system designed to aut
 * 🧠 Improved OCR accuracy with custom models
 
 ---
+
+## Note
+
+**This repository does not contain the all the sources required to completely recreate the system**
