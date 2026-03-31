@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "powersight-432911",
+  "private_key_id": "4909c1dafc609dd8c6a7b2a39fa0f535d9e342bf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/2z5jCKcAvlqM\nCjDKTryj2GWX0EW2NsZN59B/hJK1Ez18QAElpHfzBjgYexkNjzu2P5uGMlLU/LCX\np6O0iwNaISUDxtVT4p9VCCm7ZzJR5xhX/sm4fWRd7dU1g7c6nw6Q8M51J/CV85xm\n9+OZ6dWKTJ/SkRUZCYXlvgQksWLdDgxZFamHAJGrFMrygWbo0cXy1loByDfqZD+H\nJEHFayDxM0LNxM5fKmV5zC6w4kYKp/5q8oFtMzY288TetmyAHWkjKPkV4Z3qjESa\n4RsTIkrmZEQ19yA+SgJeyBl3jzquYJrxl06Wmsz4liAqrkADclLHEfjVmUqgc+1E\nytTX3oNTAgMBAAECggEAFYeqhB2T9CroaV+5YvKcC7z8haFbOVwDO/ngNXcwqX5b\nv4ZFOq6uwUh44hJqWNGyjzyrHM+n6Pvka1hmMBwLh8FBcJ+PEAdV/wpX+I5XoMZQ\nvos6ouf7a+kFLKi31q3DyjMj0BTn1EQO0KVP1tVdX9RCeTRLzE/7xTDiMSXw5MJ9\nQcC8VK76QYN/Jk9w96oGex0uMSd4ja1tKNisW19fayqYFyr3Rzb5pRmdXh2mRRaL\nknKMp2WPZe6JdXh+hpqDJkHrGQRperat/oaoTDp/hBOcinAedtNnjZ49YHv+ETyB\n/6VpRYeoYEz2oIo3yY+gLOG5vMYPaoGon7z9zzKJaQKBgQD4j6wLGiEVovYt/y3H\n2iBKbtYVULiIAaZ+IgxALYC+BjAIXWz5DXZvhlMNac9ONHjcHzuMMcDIgrEqdFWm\nmP421J49ENyMSLOfKqxtnhxxRwdqTGf0LL/6gFH3v+gF+uh1/mWMNUt0qGNditJc\n5mxbmQNJ9212fWDaMkjpohF86QKBgQDFmSIeeLtj24DoLbt7BtySDKL87AnvvjSv\nTWUZqXfxY2pJpB50AV+OAolIRc2QTruZPLDGoBayksJWVGFvPkx5Ra5HcqG+GsQR\nLmURU7fV4MN/bPTMoAzc93GfyVK0xXrrvJUxZ32ts0TqW75tfD7Mv3lMOGKBo2TV\n3Wua1Jpo2wKBgQDqMNP0keXiMOyqYeeMiWQrPUrQQoHbA1MPPJ02SqkmYUYYW441\nCg4w/ep6lNsR4DaPj43XhXkScrDiQ0H/+d5rYuDEwIJMWqOCr/5OOc6qnDXMXbkE\nQrWPHCAewd2m5MTph4u+EujJPW6B0C5sAV7O3thOdKXaIj+C1iYEmwLHIQKBgBD7\nF/OGbJQoSOurAnGQJWRnsZoKrs/riJuICygpaCVWZcvuTq+pbozFqwaK+R9tpLGG\nhaqMF2dBNXI1zinBMNE7K774Gu47Xp4bXpQena3DowlQU7lCB9j1as5QfssKLYYU\nrr2QJzzGKyX4vGSsSLlPuxzRu6VoZUH7xUOJAbwBAoGALPhgu8ezg5Orc3Mt6E/5\n58K02H+nInzGxxTkBJMncGK0IF6TTDogs8RzWiL04wLGHbBD+iwWaV6/vhl4tcfv\nBKVA0+jLEXVsXLIY0B4GEz3DWJYa9gJXqe5moJyglqogPqWgFfo8Hszy6zRRGR/f\nPknMqwg20wiDG193RaPrank=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ocr-971@powersight-432911.iam.gserviceaccount.com",
+  "client_id": "103080812966864022434",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ocr-971%40powersight-432911.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
