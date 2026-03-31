@@ -67,10 +67,7 @@ try:
                 meter_count += 1
         
         logging.info(f"Processed {meter_count} meters in {img_path}")
-
-        # Delete the input image after processing
         os.remove(img_path)
-        logging.info(f"Deleted input image: {img_path}")
 
     print(f'Cropped images saved to {OUTPUT_DIR}')
     logging.info(f'Script completed successfully. Cropped images saved to {OUTPUT_DIR}')
